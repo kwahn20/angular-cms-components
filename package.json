@@ -2,7 +2,7 @@
   "name": "@ordercloud/angular-cms-components",
   "author": "Four51",
   "license": "MIT",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "scripts": {
     "start": "run-s copy-constants buildconfig-dev app-watchmode",
     "build": "run-s copy-constants buildconfig-prod plugin-prod build-lib buildconfig-dev move-scripts build-storybook",

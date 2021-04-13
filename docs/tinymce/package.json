@@ -2,7 +2,7 @@
   "_args": [
     [
       "tinymce@5.4.1",
-      "C:\\Users\\CRicoMendoza\\Documents\\repos\\angular-cms-components"
+      "C:\\Users\\KevinA\\Documents\\repos\\client\\angular-cms-components"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/tinymce/-/tinymce-5.4.1.tgz",
   "_spec": "5.4.1",
-  "_where": "C:\\Users\\CRicoMendoza\\Documents\\repos\\angular-cms-components",
+  "_where": "C:\\Users\\KevinA\\Documents\\repos\\client\\angular-cms-components",
   "author": {
     "name": "Ephox Corporation"
   },
